@@ -1,0 +1,16 @@
+Python
+Code Runner
+Cucumber
+Cucumber (Gherkin) Full Support
+Snippets and Syntax Highlight for Gherkin (Cucumber)
+Feature Syntax Highlight and Snippets (Cucumber/Gherkin)
+Diff
+isort
+JSON formatter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Slide Show
+Microsoft Edge Tools for VS Code
+Portuguese (Brazil) Language Pack for Visual Studio Code
+Pylance
+Om Theme (A Darker Dracula Theme)
